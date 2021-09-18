@@ -2,7 +2,10 @@
 ### This is admin site of website 
 # Database file (mssql): change .txt to .sql to open file in mssql
 [script.txt](https://github.com/huytht/BookStoreOnline/files/7188881/script.txt)
+### Admin role can CRUD, user role can read (list) only
 # Example CRUD book (ADMIN ROLE)
+# LOGIN ACCOUNT ADMIN ROLE BEFORE CRUD (username: huytht, password: 123456)
+![image](https://user-images.githubusercontent.com/81338938/133865894-11dfe74f-704a-411f-aff8-8abb539bd1ff.png)
 # LIST BOOK 
 ![image](https://user-images.githubusercontent.com/81338938/133539554-5b86c051-91af-4b8c-bd41-f3fd5aa93833.png)
 # CREATE A NEW BOOK
