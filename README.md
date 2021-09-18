@@ -1,5 +1,7 @@
 # BookStoreOnline 📖
 ### This is admin site of website 
+# Database file (mssql): change .txt to .sql to open file in mssql
+[script.txt](https://github.com/huytht/BookStoreOnline/files/7188881/script.txt)
 # Example CRUD book (ADMIN ROLE)
 # LIST BOOK 
 ![image](https://user-images.githubusercontent.com/81338938/133539554-5b86c051-91af-4b8c-bd41-f3fd5aa93833.png)
